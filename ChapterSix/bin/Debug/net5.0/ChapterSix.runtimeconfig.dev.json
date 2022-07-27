@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\AYOMATICS\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\AYOMATICS\\.nuget\\packages"
+    ]
+  }
+}
